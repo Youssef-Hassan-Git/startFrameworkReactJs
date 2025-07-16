@@ -41,7 +41,7 @@ function imgDetails(idx){
             </div>
 
 
-            <div className='flex flex-row flex-wrap container'>
+            <div className='flex flex-row flex-wrap container mx-auto  '>
 
                 {allImgs.map((item, idx) => {
                   return (
@@ -51,7 +51,7 @@ function imgDetails(idx){
                     <div className='p-3 relative group'>
 
 
-                    <img src={item.imgPath} alt='Portfolio' className='w-full img'/>
+                    <img src={item.imgPath} alt='Portfolio' className='w-full img '/>
 
 
                     <div className='p-3 absolute  top-3 left-3 right-3 bottom-3  opacity-0 hover:bg-[#37A992]/60 hover:opacity-100 flex justify-center items-center bg-op '>

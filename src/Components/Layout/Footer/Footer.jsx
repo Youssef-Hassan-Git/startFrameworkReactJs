@@ -19,10 +19,10 @@ export default function Footer() {
           <div className='flex flex-col  items-center'>
             <h3 className='text-white uppercase text-2xl font-semibold  mx-auto'>AROUND THE WEB</h3>
             <div className='flex flex-row  pt-5 '>
-              <i class="fa-brands fa-facebook text-white text-md p-2 border-2 border-white rounded-full me-4  "></i>
-              <i class="fa-brands fa-twitter text-white text-md p-2 border-2 border-white rounded-full me-4"></i>
-              <i class="fa-brands fa-linkedin-in text-white text-md p-2 border-2 border-white rounded-full me-4"></i>
-              <i class="fa-solid fa-globe text-white text-md p-2 border-2 border-white rounded-full me-4"></i>
+              <i className="fa-brands fa-facebook text-white text-md p-2 border-2 border-white rounded-full me-4  "></i>
+              <i className="fa-brands fa-twitter text-white text-md p-2 border-2 border-white rounded-full me-4"></i>
+              <i className="fa-brands fa-linkedin-in text-white text-md p-2 border-2 border-white rounded-full me-4"></i>
+              <i className="fa-solid fa-globe text-white text-md p-2 border-2 border-white rounded-full me-4"></i>
             </div>
           </div>
           </div>
